@@ -19,3 +19,8 @@ Wiki      : http://dgcommunity.de/wiki
 Discord   : https://discord.gg/WzF55Ua6gM
 
 Teamspeak : ts.dgcommunity.de
+
+
+Releases:
+
+Launcher: https://github.com/mrluzifer1/DeluxeGaming/releases/tag/DGLauncher
