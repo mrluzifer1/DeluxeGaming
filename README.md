@@ -13,6 +13,9 @@ Bei Fragen oder für Support wendet euch einfach an unser Support-Team, entweder
 Hier noch ein paar nützliche Links:
 
 Forum     : http://forum.dgcommunity.de/
+
 Wiki      : http://dgcommunity.de/wiki
+
 Discord   : https://discord.gg/WzF55Ua6gM
+
 Teamspeak : ts.dgcommunity.de
