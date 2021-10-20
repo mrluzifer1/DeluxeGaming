@@ -21,6 +21,6 @@ Discord   : https://discord.gg/WzF55Ua6gM
 Teamspeak : ts.dgcommunity.de
 
 
-Releases:
+# Releases:
 
 Launcher: https://github.com/mrluzifer1/DeluxeGaming/releases/tag/DGLauncher
