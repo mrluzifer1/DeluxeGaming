@@ -1,26 +1,58 @@
-# DeluxeGaming
+###########################################################
 
-Hey, willkommen im GitHub für DeluxeGaming einem Deutschen GTA V FiveM Roleplay Server.
-Haubtsächlich nutzen dieses GitHub nur um datein hochzuladen die wir in erster Linie für unsere Community zur verfügung stellen,
-wie zum Beispiel unseren eignen Launcher oder ähnliches.
+###################DELUXEGAMING LAUNCHER###################
 
-Ab und zu werden auch Scripts für FiveM hochgeladen die wir entweder nicht mehr benötigen oder einfach mit euch teilen wollen.
-Wir werden weder Scripts Leaken die uns nicht Gehören noch ohne erlaubnis umgeschriebene Free Scripts hochladen.
+###########################################################
 
-Falls ihr zufällig auf dies Seite gekommen seid würden wir uns freuen wenn ihr euch unseren Server mal anschauen würdet.
+Version: BETA 0.0.1.2
 
-Bei Fragen oder für Support wendet euch einfach an unser Support-Team, entweder per Discord oder Teamspeak.
-Hier noch ein paar nützliche Links:
+Author : mrluzifer_1
 
-Forum     : http://forum.dgcommunity.de/
+License: CC BY-NC-ND
 
-Wiki      : http://dgcommunity.de/wiki
+##########################################################
 
-Discord   : https://discord.gg/WzF55Ua6gM
+Informationen zur Installation:
 
-Teamspeak : ts.dgcommunity.de
+Der Launcher wird über eine lokale Installation installiert. Das bedeutet, dass schon alle Dateien beim Download heruntergeladen werden, allerdings musst du dennoch eine Setup.exe ausführen, damit es nicht zu Problemen kommt. Nach der Installation kannst du einfach die DeluxeGaming Launcher.application Ausführen und loslegen.
 
+##########################################################
 
-# Releases:
+Informationen zu Updates:
 
-Launcher: https://github.com/mrluzifer1/DeluxeGaming/releases/tag/DGLauncher
+Derzeit haben wir noch keine Autoupdate Funktion, d.h das jedes Update manuell heruntergeladen werden muss. Hier eine kleine Anleitung damit beim Update nichts schiefgeht.
+
+1. Lade dir die neuste Version herunter
+2. Verschiebe die DeluxeGaming Launcher.application und den Ordner Application Files in deinen Alten DeluxeGaming Launcher Ordner.
+3. Starte die DeluxeGaming Launcher.application
+4. Fertig
+
+Die Autoupdate Funktion ist frühstens für die BETA 0.0.3 vorgesehen. Wenn du also nicht immer alles Neuinstallieren möchtest, warte einfach noch ein wenig ab. 🙂
+
+###########################################################
+
+########################Change Logs########################
+
+###########################################################
+
+**Chagelog 21.100.2021**
+
+Version: BETA 0.0.1.2
+
+| Hinzugefügt | Überarbeitet          |
+| ------- | ------------------ |
+| FiveM Connect Option   | Spieler Infors |
+| Check befor Start funktion   | Teambereich |
+| SQL Connection   |             |
+
+Aufgrund der SQL Connection kann es bei einzelnen Personen etwas länder dauern bis der Launcher Startet.
+
+##########################################################
+
+Bugs, Wünsche etc. können entweder im Forum, im Support oder im GitHub hinterlassen werden.
+
+Wir bedanken uns für jedes Feedback, denn nur so können wir denn Launcher verbessern.
+
+Jetzt aber viel Spaß mit dem Launcher
+
+Euere DeluxeGaming Projektleitung
