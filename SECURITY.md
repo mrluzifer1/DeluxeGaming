@@ -4,6 +4,8 @@
 
 Diese Versionen werden derzeit vom DeluxeGaming Team mit Sicherheitesupdates unterstützt.
 
+### Launcher
+
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.0.0.1   | :x: |
