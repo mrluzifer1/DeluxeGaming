@@ -23,7 +23,7 @@ Informationen zu Updates:
 Derzeit haben wir noch keine Autoupdate Funktion, d.h das jedes Update manuell heruntergeladen werden muss. Hier eine kleine Anleitung damit beim Update nichts schiefgeht.
 
 1. Lade dir die neuste Version herunter
-2. Verschiebe die DeluxeGaming Launcher.application und den Ordner Application Files in deinen Alten DeluxeGaming Launcher Ordner.
+2. Verschiebe die DeluxeGaming Launcher.application und den Ordner Application Files in deinen alten DeluxeGaming Launcher Ordner.
 3. Starte die DeluxeGaming Launcher.application
 4. Fertig
 
@@ -39,13 +39,13 @@ Die Autoupdate Funktion ist frühstens für die BETA 0.0.3 vorgesehen. Wenn du a
 
 Version: BETA 0.0.1.2
 
-| Hinzugefügt | Überarbeitet          |
+| Hinzugefügt | Überarbeitet |
 | ------- | ------------------ |
-| FiveM Connect Option   | Spieler Infors |
-| Check befor Start funktion   | Teambereich |
-| SQL Connection   |             |
+| FiveM Connect Option | Spieler Infos |
+| Check bevor Start Funktion | Teambereich |
+| SQL Connection | |
 
-Aufgrund der SQL Connection kann es bei einzelnen Personen etwas länder dauern bis der Launcher Startet.
+Aufgrund der SQL Connection kann es bei einzelnen Personen etwas länger dauern bis der Launcher startet.
 
 ##########################################################
 
