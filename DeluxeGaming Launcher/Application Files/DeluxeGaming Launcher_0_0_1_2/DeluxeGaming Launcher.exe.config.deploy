@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="DeluxeGaming_Launcher.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+    <userSettings>
+        <DeluxeGaming_Launcher.My.MySettings>
+            <setting name="steam" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="fivem" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="ts" serializeAs="String">
+                <value>ts3server://45.82.120.82?port=9987</value>
+            </setting>
+            <setting name="steam_check" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="fivem_check" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="ts_check" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="fivemlicense" serializeAs="String">
+                <value>1eaaf652f2ad2b1cae75922156c6cac25c8bf107</value>
+            </setting>
+            <setting name="staff_pw_show" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="staff_nick" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="staff_nick_save" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="steam_reset" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="fivem_reset" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ts_reset" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="steam_check_reset" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="fivem_check_reset" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ts_check_reset" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="fivemlicense_reset" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="staff_pw_show_reset" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="staff_nick_reset" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="staff_nick_save_reset" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="reset_all" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="kick_eigen_check" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="fivem_running" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="steam_running" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="ts_running" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="connect_check" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="FiveM_IP" serializeAs="String">
+                <value>+connect dgcommunity.de:30120</value>
+            </setting>
+        </DeluxeGaming_Launcher.My.MySettings>
+    </userSettings>
+</configuration>
