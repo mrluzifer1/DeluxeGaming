@@ -23,4 +23,4 @@ Teamspeak : ts.dgcommunity.de
 
 # Releases:
 
-Launcher: https://github.com/mrluzifer1/DeluxeGaming/releases/tag/DGLauncher
+Launcher: https://github.com/mrluzifer1/DeluxeGaming/tree/DGLauncher-Beta-0.1.2
